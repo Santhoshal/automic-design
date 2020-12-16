@@ -1,0 +1,18 @@
+.compitative--cooking--heading{
+    width: 1727px;
+    margin: 0 41px 12px 33px;
+    opacity: 0.7;
+    font-family: 'SFProDisplay';
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.13;
+    color: #0000;
+}
+.compitative--cooking--imglist{
+margin-left: 32px;
+}
+.compitative--cooking--imglist .atom--image{
+    width: 200px;
+    height: 200px;
+    margin: 23px 40px 12px 3px;
+}

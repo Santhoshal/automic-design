@@ -1,0 +1,17 @@
+.sidemenu--wrapper{
+    height: 100%;
+    width: 104px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    background-image: linear-gradient(to bottom, #22252c, #121317);
+}
+.content--area--wrapper{
+  margin-left: 104px; 
+  font-size: 28px; 
+  background-image: linear-gradient(to bottom, #17181b, rgba(12, 12, 14, 0) 66%);
+    min-height: 70rem;
+}

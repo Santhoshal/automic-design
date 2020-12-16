@@ -1,0 +1,18 @@
+.featured--collection--heading{
+    width: 1727px;
+  margin: 0 41px 12px 33px;
+  opacity: 0.7;
+  font-family: 'SFProDisplay';
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.13;
+  color: #fff;
+}
+.featured--collection--imglist{
+  margin-left: 32px;
+}
+.featured--collection--imglist .atom--image{
+  width: 200px;
+  height: 200px;
+  margin: 23px 40px 12px 3px;
+}
